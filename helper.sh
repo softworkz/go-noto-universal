@@ -249,8 +249,8 @@ _create_cjk_subset() {
     codepoints+="U+3000-303F,"   # CJK symbols and punctuation
     codepoints+="U+3100-312F,"   # Bopomofo
     codepoints+="U+31A0-31BF,"   # Bopomofo extended
-    codepoints+="U+31C0-31EF,"   # CJK strokes
-    codepoints+="U+FE30-FE4F,"   # CJK compatibility forms, used with vertical writing
+    # codepoints+="U+31C0-31EF,"   # CJK strokes
+    # codepoints+="U+FE30-FE4F,"   # CJK compatibility forms, used with vertical writing
 
     # Prepared by first subsetting with --layout-features='*' and then
     # dropping 'vert', 'vhal', 'vkrn', 'vpal', 'vrt2', 'hist'
@@ -312,9 +312,9 @@ _create_korean_hangul_subset() {
     fi
 
     codepoints+="U+1100-11FF," # Hangul jamo
-    codepoints+="U+3130-318F," # Hangul compatibility jamo
-    codepoints+="U+A960-A97F," # Hangul jamo extended-A
-    codepoints+="U+D7B0-D7FF," # Hangul jamo extended-B
+    # codepoints+="U+3130-318F," # Hangul compatibility jamo
+    # codepoints+="U+A960-A97F," # Hangul jamo extended-A
+    # codepoints+="U+D7B0-D7FF," # Hangul jamo extended-B
 
     if [[ "$is_subset" == "Full" ]]; then
         codepoints+="U+AC00-D7AF,"   # Hangul syllables
