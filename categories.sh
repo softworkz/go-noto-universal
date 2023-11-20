@@ -108,88 +108,88 @@ GoNotoCurrentRegular=(
     # list to maximize the amount of meta data retained in the final merged font.
     # ------- South Asia ---------
     "NotoSans-Regular.ttf"
-    "NotoSansArabic-Regular.ttf" # "NotoNastaliqUrdu-Regular.ttf"
+    "NotoSansArabic-Regular.ttf"
     "NotoSansBengali-Regular.ttf"
-    "NotoSansChakma-Regular.ttf"
+    # "NotoSansChakma-Regular.ttf"
     "NotoSansDevanagari-Regular.ttf"
     "NotoSansGujarati-Regular.ttf"
-    "NotoSansGunjalaGondi-Regular.ttf"
-    "NotoSansGurmukhi-Regular.ttf"
-    "NotoSansKannada-Regular.ttf"
-    "NotoSansLepcha-Regular.ttf"
-    "NotoSansLimbu-Regular.ttf"
-    "NotoSansMalayalam-Regular.ttf"
-    "NotoSansMasaramGondi-Regular.ttf"
-    "NotoSansMeeteiMayek-Regular.ttf"
-    "NotoSansMro-Regular.ttf"
-    "NotoSansNewa-Regular.ttf"
-    "NotoSansOlChiki-Regular.ttf"
-    "NotoSansOriya-Regular.ttf"
-    "NotoSansSaurashtra-Regular.ttf"
+    # "NotoSansGunjalaGondi-Regular.ttf"
+    # "NotoSansGurmukhi-Regular.ttf"
+    # "NotoSansKannada-Regular.ttf"
+    # "NotoSansLepcha-Regular.ttf"
+    # "NotoSansLimbu-Regular.ttf"
+    # "NotoSansMalayalam-Regular.ttf"
+    # "NotoSansMasaramGondi-Regular.ttf"
+    # "NotoSansMeeteiMayek-Regular.ttf"
+    # "NotoSansMro-Regular.ttf"
+    # "NotoSansNewa-Regular.ttf"
+    # "NotoSansOlChiki-Regular.ttf"
+    # "NotoSansOriya-Regular.ttf"
+    # "NotoSansSaurashtra-Regular.ttf"
     "NotoSansSinhala-Regular.ttf"
     "NotoSansTamil-Regular.ttf"
-    "NotoSansTangsa-Regular.ttf"
+    # "NotoSansTangsa-Regular.ttf"
     "NotoSansTelugu-Regular.ttf"
-    "NotoSansThaana-Regular.ttf"
-    "NotoSerifTibetanSubset-Regular.ttf"
-    "NotoSerifToto-Regular.ttf"
-    "NotoSansWancho-Regular.ttf"
-    "NotoSansWarangCiti-Regular.ttf"
+    # "NotoSansThaana-Regular.ttf"
+    # "NotoSerifTibetanSubset-Regular.ttf"
+    # "NotoSerifToto-Regular.ttf"
+    # "NotoSansWancho-Regular.ttf"
+    # "NotoSansWarangCiti-Regular.ttf"
     # SE Asia
-    "NotoSansBalinese-Regular.ttf"
-    "NotoSansBatak-Regular.ttf"
-    "NotoSansBuginese-Regular.ttf"
-    "NotoSansBuhid-Regular.ttf"
-    "NotoSansCham-Regular.ttf"
-    "NotoSansHanifiRohingya-Regular.ttf"
-    "NotoSansHanunoo-Regular.ttf"
-    "NotoSansJavanese-Regular.ttf"
-    "NotoSansKayahLi-Regular.ttf"
+    # "NotoSansBalinese-Regular.ttf"
+    # "NotoSansBatak-Regular.ttf"
+    # "NotoSansBuginese-Regular.ttf"
+    # "NotoSansBuhid-Regular.ttf"
+    # "NotoSansCham-Regular.ttf"
+    # "NotoSansHanifiRohingya-Regular.ttf"
+    # "NotoSansHanunoo-Regular.ttf"
+    # "NotoSansJavanese-Regular.ttf"
+    # "NotoSansKayahLi-Regular.ttf"
     "NotoSansKhmer-Regular.ttf"
     "NotoSansLao-Regular.ttf"
     "NotoSansMyanmar-Regular.ttf"
-    "NotoSansNewTaiLue-Regular.ttf"
-    "NotoSansPahawhHmong-Regular.ttf"
-    "NotoSansPauCinHau-Regular.ttf"
-    "NotoSansRejang-Regular.ttf"
-    "NotoSansSundanese-Regular.ttf"
-    "NotoSansTagalog-Regular.ttf"
-    "NotoSansTagbanwa-Regular.ttf"
-    "NotoSansTaiLe-Regular.ttf"
-    "NotoSansTaiTham-Regular.ttf"
-    "NotoSansTaiViet-Regular.ttf"
+    # "NotoSansNewTaiLue-Regular.ttf"
+    # "NotoSansPahawhHmong-Regular.ttf"
+    # "NotoSansPauCinHau-Regular.ttf"
+    # "NotoSansRejang-Regular.ttf"
+    # "NotoSansSundanese-Regular.ttf"
+    # "NotoSansTagalog-Regular.ttf"
+    # "NotoSansTagbanwa-Regular.ttf"
+    # "NotoSansTaiLe-Regular.ttf"
+    # "NotoSansTaiTham-Regular.ttf"
+    # "NotoSansTaiViet-Regular.ttf"
     "NotoSansThai-Regular.ttf"
-    "NotoSansLisu-Regular.ttf"
+    # "NotoSansLisu-Regular.ttf"
     # 'GoNotoEuropeAmericas.ttf': [
     "NotoSansArmenian-Regular.ttf"
-    "NotoSansCherokee-Regular.ttf"
-    "NotoSansCoptic-Regular.ttf"
-    "NotoSansDeseret-Regular.ttf"
+    # "NotoSansCherokee-Regular.ttf"
+    # "NotoSansCoptic-Regular.ttf"
+    # "NotoSansDeseret-Regular.ttf"
     "NotoSansGeorgian-Regular.ttf"
-    "NotoSansOsage-Regular.ttf"
+    # "NotoSansOsage-Regular.ttf"
     # 'GoNotoAfricaMiddleEast.ttf': [
-    "NotoSansAdlam-Regular.ttf"
-    "NotoSansBassaVah-Regular.ttf"
+    # "NotoSansAdlam-Regular.ttf"
+    # "NotoSansBassaVah-Regular.ttf"
     "NotoSansHebrew-Regular.ttf"
-    "NotoSansSyriac-Regular.ttf"
-    "NotoSansSamaritan-Regular.ttf"
-    "NotoSansMandaic-Regular.ttf"
-    "NotoSerifYezidi-Regular.ttf"
+    # "NotoSansSyriac-Regular.ttf"
+    # "NotoSansSamaritan-Regular.ttf"
+    # "NotoSansMandaic-Regular.ttf"
+    # "NotoSerifYezidi-Regular.ttf"
     "NotoSansEthiopic-Regular.ttf"
-    "NotoSansOsmanya-Regular.ttf"
-    "NotoSansTifinagh-Regular.ttf"
-    "NotoSansNKo-Regular.ttf"
-    "NotoSansVai-Regular.ttf"
-    "NotoSansMendeKikakui-Regular.ttf"
-    "NotoSansMedefaidrin-Regular.ttf"
+    # "NotoSansOsmanya-Regular.ttf"
+    # "NotoSansTifinagh-Regular.ttf"
+    # "NotoSansNKo-Regular.ttf"
+    # "NotoSansVai-Regular.ttf"
+    # "NotoSansMendeKikakui-Regular.ttf"
+    # "NotoSansMedefaidrin-Regular.ttf"
     # 'GoNotoEastAsia.ttf': [
     "NotoSansCJKjpSubset-Regular.ttf"
     "NotoSansCJKkrSubset-Regular.ttf"
     "NotoSansCJKscSubset-Regular.ttf"
     "NotoSansMongolianSubset-Regular.ttf"
-    "NotoSansYi-Regular.ttf"
-    "NotoSansNushuSubset-Regular.ttf" # Not exactly contemporary use but just 402 glyphs
-    "NotoSansMiao-Regular.ttf"
+    # "NotoSansYi-Regular.ttf"
+    # "NotoSansNushuSubset-Regular.ttf" # Not exactly contemporary use but just 402 glyphs
+    # "NotoSansMiao-Regular.ttf"
     # Common for all scripts
     "NotoSansSymbols-Regular.ttf"
     "NotoSansSymbols2-Regular.ttf"
@@ -202,88 +202,88 @@ GoNotoCurrentBold=(
     # list to maximize the amount of meta data retained in the final merged font.
     # ------- South Asia ---------
     "NotoSans-Bold.ttf"
-    "NotoSansArabic-SemiBold.ttf" # "NotoNastaliqUrdu-Bold.ttf"
+    "NotoSansArabic-SemiBold.ttf"
     "NotoSansBengali-Bold.ttf"
-    "NotoSansChakma-Regular.ttf" # No bold
+    # "NotoSansChakma-Regular.ttf" # No bold
     "NotoSansDevanagari-Bold.ttf"
     "NotoSansGujarati-Bold.ttf"
-    "NotoSansGunjalaGondi-Bold.ttf"
-    "NotoSansGurmukhi-Bold.ttf"
-    "NotoSansKannada-Bold.ttf"
-    "NotoSansLepcha-Regular.ttf" # No bold
-    "NotoSansLimbu-Regular.ttf" # No bold
-    "NotoSansMalayalam-Bold.ttf"
-    "NotoSansMasaramGondi-Regular.ttf" # No bold
-    "NotoSansMeeteiMayek-Regular.ttf" # No bold
-    "NotoSansMro-Regular.ttf" # No bold
-    "NotoSansNewa-Regular.ttf" # No bold
-    "NotoSansOlChiki-Bold.ttf"
-    "NotoSansOriya-Bold.ttf"
-    "NotoSansSaurashtra-Regular.ttf" # No bold
+    # "NotoSansGunjalaGondi-Bold.ttf"
+    # "NotoSansGurmukhi-Bold.ttf"
+    # "NotoSansKannada-Bold.ttf"
+    # "NotoSansLepcha-Regular.ttf" # No bold
+    # "NotoSansLimbu-Regular.ttf" # No bold
+    # "NotoSansMalayalam-Bold.ttf"
+    # "NotoSansMasaramGondi-Regular.ttf" # No bold
+    # "NotoSansMeeteiMayek-Regular.ttf" # No bold
+    # "NotoSansMro-Regular.ttf" # No bold
+    # "NotoSansNewa-Regular.ttf" # No bold
+    # "NotoSansOlChiki-Bold.ttf"
+    # "NotoSansOriya-Bold.ttf"
+    # "NotoSansSaurashtra-Regular.ttf" # No bold
     "NotoSansSinhala-Bold.ttf"
     "NotoSansTamil-Bold.ttf"
-    "NotoSansTangsa-Bold.ttf"
+    # "NotoSansTangsa-Bold.ttf"
     "NotoSansTelugu-Bold.ttf"
-    "NotoSansThaana-Bold.ttf"
-    "NotoSerifTibetanSubset-Bold.ttf"
-    "NotoSerifToto-Bold.ttf"
-    "NotoSansWancho-Regular.ttf" # No bold
-    "NotoSansWarangCiti-Regular.ttf" # No bold
+    # "NotoSansThaana-Bold.ttf"
+    # "NotoSerifTibetanSubset-Bold.ttf"
+    # "NotoSerifToto-Bold.ttf"
+    # "NotoSansWancho-Regular.ttf" # No bold
+    # "NotoSansWarangCiti-Regular.ttf" # No bold
     # SE Asia
-    "NotoSansBalinese-Bold.ttf"
-    "NotoSansBatak-Regular.ttf" # No bold
-    "NotoSansBuginese-Regular.ttf" # No bold
-    "NotoSansBuhid-Regular.ttf" # No bold
-    "NotoSansCham-Bold.ttf"
-    "NotoSansHanifiRohingya-Bold.ttf"
-    "NotoSansHanunoo-Regular.ttf" # No bold
-    "NotoSansJavanese-Bold.ttf"
-    "NotoSansKayahLi-Bold.ttf"
+    # "NotoSansBalinese-Bold.ttf"
+    # "NotoSansBatak-Regular.ttf" # No bold
+    # "NotoSansBuginese-Regular.ttf" # No bold
+    # "NotoSansBuhid-Regular.ttf" # No bold
+    # "NotoSansCham-Bold.ttf"
+    # "NotoSansHanifiRohingya-Bold.ttf"
+    # "NotoSansHanunoo-Regular.ttf" # No bold
+    # "NotoSansJavanese-Bold.ttf"
+    # "NotoSansKayahLi-Bold.ttf"
     "NotoSansKhmer-Bold.ttf"
     "NotoSansLao-Bold.ttf"
     "NotoSansMyanmar-Bold.ttf"
-    "NotoSansNewTaiLue-Bold.ttf"
-    "NotoSansPahawhHmong-Regular.ttf" # No bold
-    "NotoSansPauCinHau-Regular.ttf" # No bold
-    "NotoSansRejang-Regular.ttf" # No bold
-    "NotoSansSundanese-Bold.ttf"
-    "NotoSansTagalog-Regular.ttf" # No bold
-    "NotoSansTagbanwa-Regular.ttf" # No bold
-    "NotoSansTaiLe-Regular.ttf" # No bold
-    "NotoSansTaiTham-Bold.ttf"
-    "NotoSansTaiViet-Regular.ttf" # No bold
+    # "NotoSansNewTaiLue-Bold.ttf"
+    # "NotoSansPahawhHmong-Regular.ttf" # No bold
+    # "NotoSansPauCinHau-Regular.ttf" # No bold
+    # "NotoSansRejang-Regular.ttf" # No bold
+    # "NotoSansSundanese-Bold.ttf"
+    # "NotoSansTagalog-Regular.ttf" # No bold
+    # "NotoSansTagbanwa-Regular.ttf" # No bold
+    # "NotoSansTaiLe-Regular.ttf" # No bold
+    # "NotoSansTaiTham-Bold.ttf"
+    # "NotoSansTaiViet-Regular.ttf" # No bold
     "NotoSansThai-Bold.ttf"
-    "NotoSansLisu-Bold.ttf"
+    # "NotoSansLisu-Bold.ttf"
     # 'GoNotoEuropeAmericas.ttf': [
     "NotoSansArmenian-Bold.ttf"
-    "NotoSansCherokee-Bold.ttf"
-    "NotoSansCoptic-Regular.ttf" # No bold
-    "NotoSansDeseret-Regular.ttf" # No bold
+    # "NotoSansCherokee-Bold.ttf"
+    # "NotoSansCoptic-Regular.ttf" # No bold
+    # "NotoSansDeseret-Regular.ttf" # No bold
     "NotoSansGeorgian-Bold.ttf"
-    "NotoSansOsage-Regular.ttf" # No bold
+    # "NotoSansOsage-Regular.ttf" # No bold
     # 'GoNotoAfricaMiddleEast.ttf': [
-    "NotoSansAdlam-Bold.ttf"
-    "NotoSansBassaVah-Bold.ttf"
+    # "NotoSansAdlam-Bold.ttf"
+    # "NotoSansBassaVah-Bold.ttf"
     "NotoSansHebrew-Bold.ttf"
-    "NotoSansSyriac-Black.ttf"
-    "NotoSansSamaritan-Regular.ttf" # No bold
-    "NotoSansMandaic-Regular.ttf" # No bold
-    "NotoSerifYezidi-Bold.ttf"
+    # "NotoSansSyriac-Black.ttf"
+    # "NotoSansSamaritan-Regular.ttf" # No bold
+    # "NotoSansMandaic-Regular.ttf" # No bold
+    # "NotoSerifYezidi-Bold.ttf"
     "NotoSansEthiopic-Bold.ttf"
-    "NotoSansOsmanya-Regular.ttf" # No bold
-    "NotoSansTifinagh-Regular.ttf" # No bold
-    "NotoSansNKoUnjoined-Bold.ttf"
-    "NotoSansVai-Regular.ttf" # No bold
-    "NotoSansMendeKikakui-Regular.ttf" # No bold
-    "NotoSansMedefaidrin-Bold.ttf"
+    # "NotoSansOsmanya-Regular.ttf" # No bold
+    # "NotoSansTifinagh-Regular.ttf" # No bold
+    # "NotoSansNKoUnjoined-Bold.ttf"
+    # "NotoSansVai-Regular.ttf" # No bold
+    # "NotoSansMendeKikakui-Regular.ttf" # No bold
+    # "NotoSansMedefaidrin-Bold.ttf"
     # 'GoNotoEastAsia.ttf': [
     "NotoSansCJKjpSubset-Bold.ttf"
     "NotoSansCJKkrSubset-Bold.ttf"
     "NotoSansCJKscSubset-Bold.ttf"
     "NotoSansMongolianSubset-Regular.ttf" # No bold
-    "NotoSansYi-Regular.ttf" # No bold
-    "NotoTraditionalNushuSubset-Bold.ttf" # Not exactly contemporary use but just 402 glyphs
-    "NotoSansMiao-Regular.ttf" # No bold
+    # "NotoSansYi-Regular.ttf" # No bold
+    # "NotoTraditionalNushuSubset-Bold.ttf" # Not exactly contemporary use but just 402 glyphs
+    # "NotoSansMiao-Regular.ttf" # No bold
     # Common for all scripts
     "NotoSansSymbols-Bold.ttf"
     "NotoSansSymbols2-Regular.ttf" # No bold
