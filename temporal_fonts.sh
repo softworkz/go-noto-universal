@@ -18,13 +18,13 @@ create_cjk_subset
 # create_duployan_subset
 create_japanese_kana_subset
 create_korean_hangul_subset
-create_math_subset
+# create_math_subset
 # create_tibetan_subset
 create_go_noto_current_with_full_korean
 
-drop_vertical_tables NotoSansMongolian-Regular.ttf
-drop_vertical_tables NotoSansNushu-Regular.ttf
-drop_vertical_tables NotoTraditionalNushu-Bold.ttf
+# drop_vertical_tables NotoSansMongolian-Regular.ttf
+# drop_vertical_tables NotoSansNushu-Regular.ttf
+# drop_vertical_tables NotoTraditionalNushu-Bold.ttf
 
 # echo "Generating GoNotoCurrent-Regular.ttf. Current time: $(date)."
 # go_build GoNotoCurrent-Regular.ttf "${GoNotoCurrentRegular[@]}"
