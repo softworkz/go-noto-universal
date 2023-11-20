@@ -465,6 +465,7 @@ go_build() {
     fi
 
     cd cache/
+    ls -la
     for font in "${input[@]}"; do
         echo "Checking for font $font"
         if [[ ! -e "$font" ]]; then
