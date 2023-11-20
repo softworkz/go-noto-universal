@@ -466,6 +466,7 @@ go_build() {
 
     cd cache/
     for font in "${input[@]}"; do
+        echo "Checking for font $font"
         if [[ ! -e "$font" ]]; then
             download_url "${font_urls[$font]}"
         fi
