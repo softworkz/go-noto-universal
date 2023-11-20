@@ -111,8 +111,8 @@ GoNotoCurrentRegular=(
     "NotoSansArabic-Regular.ttf"
     "NotoSansBengali-Regular.ttf"
     # "NotoSansChakma-Regular.ttf"
-    "NotoSansDevanagari-Regular.ttf"
-    "NotoSansGujarati-Regular.ttf"
+    # "NotoSansDevanagari-Regular.ttf"
+    # "NotoSansGujarati-Regular.ttf"
     # "NotoSansGunjalaGondi-Regular.ttf"
     # "NotoSansGurmukhi-Regular.ttf"
     # "NotoSansKannada-Regular.ttf"
@@ -129,7 +129,7 @@ GoNotoCurrentRegular=(
     "NotoSansSinhala-Regular.ttf"
     "NotoSansTamil-Regular.ttf"
     # "NotoSansTangsa-Regular.ttf"
-    "NotoSansTelugu-Regular.ttf"
+    # "NotoSansTelugu-Regular.ttf"
     # "NotoSansThaana-Regular.ttf"
     # "NotoSerifTibetanSubset-Regular.ttf"
     # "NotoSerifToto-Regular.ttf"
@@ -186,15 +186,15 @@ GoNotoCurrentRegular=(
     "NotoSansCJKjpSubset-Regular.ttf"
     "NotoSansCJKkrSubset-Regular.ttf"
     "NotoSansCJKscSubset-Regular.ttf"
-    "NotoSansMongolianSubset-Regular.ttf"
+    # "NotoSansMongolianSubset-Regular.ttf"
     # "NotoSansYi-Regular.ttf"
     # "NotoSansNushuSubset-Regular.ttf" # Not exactly contemporary use but just 402 glyphs
     # "NotoSansMiao-Regular.ttf"
     # Common for all scripts
-    "NotoSansSymbols-Regular.ttf"
-    "NotoSansSymbols2-Regular.ttf"
-    "NotoSansMathSubset-Regular.ttf"
-    "NotoMusic-Regular.ttf"
+    # "NotoSansSymbols-Regular.ttf"
+    # "NotoSansSymbols2-Regular.ttf"
+    # "NotoSansMathSubset-Regular.ttf"
+    # "NotoMusic-Regular.ttf"
 )
 
 GoNotoCurrentBold=(
@@ -205,8 +205,8 @@ GoNotoCurrentBold=(
     "NotoSansArabic-SemiBold.ttf"
     "NotoSansBengali-Bold.ttf"
     # "NotoSansChakma-Regular.ttf" # No bold
-    "NotoSansDevanagari-Bold.ttf"
-    "NotoSansGujarati-Bold.ttf"
+    # "NotoSansDevanagari-Bold.ttf"
+    # "NotoSansGujarati-Bold.ttf"
     # "NotoSansGunjalaGondi-Bold.ttf"
     # "NotoSansGurmukhi-Bold.ttf"
     # "NotoSansKannada-Bold.ttf"
@@ -223,7 +223,7 @@ GoNotoCurrentBold=(
     "NotoSansSinhala-Bold.ttf"
     "NotoSansTamil-Bold.ttf"
     # "NotoSansTangsa-Bold.ttf"
-    "NotoSansTelugu-Bold.ttf"
+    # "NotoSansTelugu-Bold.ttf"
     # "NotoSansThaana-Bold.ttf"
     # "NotoSerifTibetanSubset-Bold.ttf"
     # "NotoSerifToto-Bold.ttf"
@@ -280,15 +280,15 @@ GoNotoCurrentBold=(
     "NotoSansCJKjpSubset-Bold.ttf"
     "NotoSansCJKkrSubset-Bold.ttf"
     "NotoSansCJKscSubset-Bold.ttf"
-    "NotoSansMongolianSubset-Regular.ttf" # No bold
+    # "NotoSansMongolianSubset-Regular.ttf" # No bold
     # "NotoSansYi-Regular.ttf" # No bold
     # "NotoTraditionalNushuSubset-Bold.ttf" # Not exactly contemporary use but just 402 glyphs
     # "NotoSansMiao-Regular.ttf" # No bold
     # Common for all scripts
-    "NotoSansSymbols-Bold.ttf"
-    "NotoSansSymbols2-Regular.ttf" # No bold
-    "NotoSansMathSubset-Regular.ttf" # No bold
-    "NotoMusic-Regular.ttf" # No bold
+    # "NotoSansSymbols-Bold.ttf"
+    # "NotoSansSymbols2-Regular.ttf" # No bold
+    # "NotoSansMathSubset-Regular.ttf" # No bold
+    # "NotoMusic-Regular.ttf" # No bold
 )
 
 GoNotoAfricaMiddleEast=(

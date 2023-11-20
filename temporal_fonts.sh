@@ -15,11 +15,11 @@ mkdir -p cache/
 
 # GoNotoCurrentRegular.ttf
 create_cjk_subset
-create_duployan_subset
+# create_duployan_subset
 create_japanese_kana_subset
 create_korean_hangul_subset
 create_math_subset
-create_tibetan_subset
+# create_tibetan_subset
 create_go_noto_current_with_full_korean
 
 drop_vertical_tables NotoSansMongolian-Regular.ttf
