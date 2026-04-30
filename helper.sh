@@ -404,7 +404,7 @@ _create_go_noto_current_with_full_korean() {
     no_syms=("${no_syms[@]/NotoSansSymbols-Bold.ttf/}")
     no_syms=("${no_syms[@]/NotoSansSymbols2-Regular.ttf/}")
     no_syms=("${no_syms[@]/NotoSansMathSubset-Regular.ttf/}")
-    no_syms=("${no_syms[@]/NotoMusic-Regular.ttf/}")
+    # no_syms=("${no_syms[@]/NotoMusic-Regular.ttf/}")
 
     # Replace Korean "Subset" with "Full" variant
     no_syms=("${no_syms[@]/NotoSansCJKkrSubset/NotoSansCJKkrFull}")
