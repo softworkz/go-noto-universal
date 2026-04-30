@@ -194,7 +194,7 @@ GoNotoCurrentRegular=(
     # "NotoSansSymbols-Regular.ttf"
     # "NotoSansSymbols2-Regular.ttf"
     # "NotoSansMathSubset-Regular.ttf"
-    # "NotoMusic-Regular.ttf"
+    "NotoMusic-Regular.ttf"
 )
 
 GoNotoCurrentBold=(
@@ -288,7 +288,7 @@ GoNotoCurrentBold=(
     # "NotoSansSymbols-Bold.ttf"
     # "NotoSansSymbols2-Regular.ttf" # No bold
     # "NotoSansMathSubset-Regular.ttf" # No bold
-    # "NotoMusic-Regular.ttf" # No bold
+    "NotoMusic-Regular.ttf" # No bold
 )
 
 GoNotoAfricaMiddleEast=(
